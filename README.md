@@ -3,6 +3,8 @@ This is a flutter blog app.
 This app runs on the same backend as this website:
 https://github.com/Shamir2020/quantumblog
 
+Here is the preview of this app:
+https://www.youtube.com/watch?v=BPn1EM1-2-s
 
 ## Getting Started
 
