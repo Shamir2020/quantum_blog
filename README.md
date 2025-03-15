@@ -1,6 +1,8 @@
 # quantum_blog
+This is a flutter blog app.
+This app runs on the same backend as this website:
+https://github.com/Shamir2020/quantumblog
 
-A new Flutter project.
 
 ## Getting Started
 
